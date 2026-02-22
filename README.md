@@ -89,4 +89,4 @@ Monitoring failed logons is foundational in SOC operations.
 ![Aggregated Detection](03-failed-login-aggregation.png)
 
 ### Visualization
-![Visualization](04-failed-login-visualization.png)
+![Visualization](04-visualization.png)
